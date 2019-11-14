@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+
+        this is the {process.env.NODE_ENV} env
       </header>
     </div>
   );
